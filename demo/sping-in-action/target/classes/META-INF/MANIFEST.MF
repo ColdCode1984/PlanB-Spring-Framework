@@ -1,0 +1,4 @@
+Module-Name: com.koubei.kbposprod.biz.kds
+Require-Bundle: com.koubei.kbposprod.biz.shared
+Spring-Parent: com.koubei.kbposprod.common.dal
+
